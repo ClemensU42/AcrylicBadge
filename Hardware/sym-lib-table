@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CSD16406Q3")(type "KiCad")(uri "${KIPRJMOD}/libs/CSD16406Q3/CSD16406Q3.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4125-GF-A_REVA2")(type "KiCad")(uri "${KIPRJMOD}/libs/USB4125_GF_A/USB4125-GF-A_REVA2.kicad_sym")(options "")(descr ""))
+  (lib (name "2025-02-10_07-18-37")(type "KiCad")(uri "${KIPRJMOD}/libs/PAM2401SCADJ/2025-02-10_07-18-37.kicad_sym")(options "")(descr ""))
+  (lib (name "DFE252012F-2R2M_P2")(type "KiCad")(uri "${KIPRJMOD}/libs/DF252012F-2R2M_P2/DFE252012F-2R2M_P2.kicad_sym")(options "")(descr ""))
+  (lib (name "TL3305CF260QG")(type "KiCad")(uri "${KIPRJMOD}/libs/TL3305CF260QG/TL3305CF260QG.kicad_sym")(options "")(descr ""))
+  (lib (name "JS202011SCQN")(type "KiCad")(uri "${KIPRJMOD}/libs/JS202011SCQN/JS202011SCQN.kicad_sym")(options "")(descr ""))
+  (lib (name "2025-02-11_20-59-00")(type "KiCad")(uri "${KIPRJMOD}/libs/COM_16347/KiCADv6/2025-02-11_20-59-00.kicad_sym")(options "")(descr ""))
+)

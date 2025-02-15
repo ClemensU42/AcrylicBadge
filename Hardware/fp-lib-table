@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CSD16406Q3")(type "KiCad")(uri "${KIPRJMOD}/libs/CSD16406Q3")(options "")(descr ""))
+  (lib (name "USB4125_GF_A")(type "KiCad")(uri "${KIPRJMOD}/libs/USB4125_GF_A")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/libs/PAM2401SCADJ/footprints.pretty")(options "")(descr ""))
+  (lib (name "DF252012F-2R2M_P2")(type "KiCad")(uri "${KIPRJMOD}/libs/DF252012F-2R2M_P2")(options "")(descr ""))
+  (lib (name "TL3305CF260QG")(type "KiCad")(uri "${KIPRJMOD}/libs/TL3305CF260QG")(options "")(descr ""))
+  (lib (name "JS202011SCQN")(type "KiCad")(uri "${KIPRJMOD}/libs/JS202011SCQN")(options "")(descr ""))
+  (lib (name "COM_16347")(type "KiCad")(uri "${KIPRJMOD}/libs/COM_16347/KiCADv6/footprints.pretty")(options "")(descr ""))
+)
