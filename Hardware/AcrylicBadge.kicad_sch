@@ -12070,7 +12070,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_HC49-SD_HandSoldering"
+		(property "Footprint" "Crystal:Crystal_SMD_HC49-SD"
 			(at 72.39 49.53 0)
 			(effects
 				(font
